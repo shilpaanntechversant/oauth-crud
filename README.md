@@ -3,6 +3,6 @@
 Frontend To RUn
 yarn run serve
 
-Backend Package Install
+Backend Run
 python manage.py runserver
 
