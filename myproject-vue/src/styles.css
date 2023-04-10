@@ -1,0 +1,13 @@
+body{
+    background-color: #f0fdf0;
+}
+.user-img{
+    width: 150px;
+    /* border-radius: 50%; */
+}
+.user-img-big{
+    width: 200px;
+    /* border-radius: 50%; */
+}
+table.fixed { table-layout:fixed; }
+table.fixed th{ overflow: hidden; }
